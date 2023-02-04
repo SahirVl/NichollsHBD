@@ -1,0 +1,80 @@
+body 
+{
+    background: rgb(39, 38, 38);
+    color: rgb(14, 13, 13);
+    text-align: center;
+    font-family: 'Arial';
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+#header, #header2
+{
+
+    background: #37488b;
+    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
+
+    background: #33A;
+    border-radius: 5px;
+    box-shadow: 0px 2px 20px 0px rgba(8, 7, 7, 0.5);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
+
+
+#header #tagline, #tagline2
+{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
+
+
+#container, #container2
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px dashed #ddd;
+    margin: 0 auto;
+}
+
+#container h1
+{
+    font-size: 20px;
+}
+
+p
+{
+    color: black;
+    text-align: justify,center;
+    font-style: oblique;
+}
+
+
+#post 
+{
+background: white ;
+padding: 1em;
+}
+
+#footer
+{
+    background: #33A;
+    border-radius: 5px;
+    color: white;;
+    font-weight: bold;
+    text-align:center;
+    margin: 0;
+    padding: 0.5em;
+}
+
+#buñuelos
+{
+    width: 200px;
+    vertical-align: middle;
+}
+
